@@ -157,3 +157,28 @@ Tennis rackets/
 - 每条记录必须填 `sources`，便于复核。
 - 评分采用 0–5 整数，避免主观区分过细。
 - 同一型号不同年份分开记录，`year` 区分。
+
+---
+
+## 7. 本地开发与部署
+
+### 本地开发
+
+```bash
+npm install      # 安装依赖
+npm run dev      # 启动开发服务 http://localhost:5173
+npm run build    # 构建到 dist/
+npm run preview  # 本地预览构建产物
+```
+
+### 部署（Vercel）
+
+纯静态 SPA，托管到 Vercel：
+
+1. 代码推到 GitHub。
+2. vercel.com 用 GitHub 登录 → Import 该仓库。
+3. Vercel 自动识别 Vite（Build `npm run build`、Output `dist/`），直接 Deploy。
+4. 拿到公开链接 `https://<项目名>.vercel.app`。
+
+之后 `git push` 即自动重新构建上线。`vercel.json` 已配置 SPA 路由回退。
+
