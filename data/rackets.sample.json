@@ -1,0 +1,181 @@
+[
+  {
+    "id": "babolat-pure-aero-2023",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Aero",
+      "year": 2023,
+      "series": "Pure Aero",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": ["https://www.racquetfinder.com", "https://www.babolat.com/"]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungG": 318,
+      "weightUnstrungG": 300,
+      "weightStrungOz": 11.2,
+      "balancePts": -2,
+      "balanceMm": 320,
+      "swingWeight": 324,
+      "beamWidth": "23-26-23",
+      "mains": 16,
+      "crosses": 19,
+      "stiffness": 67,
+      "gripSizes": ["L1", "L2", "L3", "L4"],
+      "length": 27
+    },
+    "playStyle": [
+      { "tag": "topspin", "fit": 5 },
+      { "tag": "aggressiveBaseline", "fit": 4 }
+    ],
+    "skillLevel": {
+      "levels": ["intermediate", "advanced"],
+      "requirement": { "power": 4, "controlSkill": 3, "physical": 3 }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 5,
+      "control": 3,
+      "spinPotential": 5
+    },
+    "notes": "上旋利器，纳达尔代言系列。底线暴力上旋型选手首选。"
+  },
+  {
+    "id": "wilson-pro-staff-97-v14-2023",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Pro Staff 97 v14",
+      "year": 2023,
+      "series": "Pro Staff",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": ["https://www.racquetfinder.com", "https://www.wilson.com/"]
+    },
+    "specs": {
+      "headSize": 97,
+      "weightStrungG": 333,
+      "weightUnstrungG": 315,
+      "weightStrungOz": 11.7,
+      "balancePts": -4,
+      "balanceMm": 310,
+      "swingWeight": 328,
+      "beamWidth": "21.5",
+      "mains": 16,
+      "crosses": 19,
+      "stiffness": 66,
+      "gripSizes": ["L1", "L2", "L3", "L4"],
+      "length": 27
+    },
+    "playStyle": [
+      { "tag": "flat", "fit": 5 },
+      { "tag": "allCourt", "fit": 4 },
+      { "tag": "serveAndVolley", "fit": 4 }
+    ],
+    "skillLevel": {
+      "levels": ["advanced", "pro"],
+      "requirement": { "power": 2, "controlSkill": 5, "physical": 4 }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 2,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "费德勒同款系列。低容错、高控制，适合技术成熟、追求手感的进攻型选手。"
+  },
+  {
+    "id": "head-radical-mp-2023",
+    "meta": {
+      "brand": "Head",
+      "model": "Radical MP",
+      "year": 2023,
+      "series": "Radical",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": ["https://www.racquetfinder.com", "https://www.head.com/"]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungG": 318,
+      "weightUnstrungG": 300,
+      "weightStrungOz": 11.2,
+      "balancePts": -2,
+      "balanceMm": 320,
+      "swingWeight": 322,
+      "beamWidth": "20-23-21",
+      "mains": 16,
+      "crosses": 19,
+      "stiffness": 62,
+      "gripSizes": ["L1", "L2", "L3", "L4"],
+      "length": 27
+    },
+    "playStyle": [
+      { "tag": "allCourt", "fit": 5 },
+      { "tag": "aggressiveBaseline", "fit": 4 },
+      { "tag": "topspin", "fit": 4 }
+    ],
+    "skillLevel": {
+      "levels": ["intermediate", "advanced"],
+      "requirement": { "power": 3, "controlSkill": 4, "physical": 3 }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "全场均衡型，进阶到高阶过渡的经典选择，各项无明显短板。"
+  },
+  {
+    "id": "wilson-clash-100-v2-2022",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Clash 100 v2",
+      "year": 2022,
+      "series": "Clash",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": ["https://www.racquetfinder.com", "https://www.wilson.com/"]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungG": 312,
+      "weightUnstrungG": 295,
+      "weightStrungOz": 11.0,
+      "balancePts": 2,
+      "balanceMm": 330,
+      "swingWeight": 312,
+      "beamWidth": "24",
+      "mains": 16,
+      "crosses": 19,
+      "stiffness": 55,
+      "gripSizes": ["L1", "L2", "L3", "L4"],
+      "length": 27
+    },
+    "playStyle": [
+      { "tag": "topspin", "fit": 4 },
+      { "tag": "allCourt", "fit": 4 },
+      { "tag": "defensive", "fit": 3 }
+    ],
+    "skillLevel": {
+      "levels": ["beginner", "intermediate"],
+      "requirement": { "power": 4, "controlSkill": 2, "physical": 2 }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 4,
+      "forgiveness": 5,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "极柔软、低硬度，舒适度顶级，适合手肘/手腕敏感者及进阶过渡选手。"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TennisRacket",
+  "type": "object",
+  "required": ["id", "meta", "specs", "playStyle", "skillLevel", "experience"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "唯一标识，建议 brand-model-year，如 babolat-pure-aero-2023"
+    },
+    "meta": {
+      "type": "object",
+      "required": ["brand", "model", "year"],
+      "properties": {
+        "brand": { "type": "string", "description": "品牌，如 Babolat / Wilson / Head / Yonex" },
+        "model": { "type": "string", "description": "型号名" },
+        "year": { "type": "integer", "description": "版本年份" },
+        "series": { "type": "string", "description": "系列，如 Pure Aero / Pro Staff" },
+        "priceRange": { "type": "string", "enum": ["budget", "mid", "high", "premium"] },
+        "imageUrl": { "type": "string" },
+        "sources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "数据来源链接"
+        }
+      }
+    },
+    "specs": {
+      "type": "object",
+      "description": "基本参数。字段约定对齐 Tennis Warehouse RacquetFinder。",
+      "required": ["headSize", "weightStrungG", "mains", "crosses"],
+      "properties": {
+        "headSize": { "type": "number", "description": "拍面 sq in，常见 95-110" },
+        "weightStrungG": { "type": "number", "description": "穿线后重量 g（主用）" },
+        "weightUnstrungG": { "type": "number", "description": "空拍重量 g" },
+        "weightStrungOz": { "type": "number", "description": "穿线后重量 oz（RacquetFinder 口径，可由 g 换算）" },
+        "balancePts": { "type": "number", "description": "平衡点，-20~20，负=头轻(HL) 正=头重(HH) 0=均衡，对齐 RacquetFinder" },
+        "balanceMm": { "type": "number", "description": "平衡点 mm，距拍柄底端，可选" },
+        "swingWeight": { "type": "number", "description": "挥重 (RDC 测量法)，250-450" },
+        "beamWidth": { "type": "string", "description": "拍框最厚处 mm，可为区间如 23-26-21（tip-throat-shaft）" },
+        "tipShaft": { "type": "string", "description": "拍头/拍喉厚度 mm，如 23.0/21.0（RacquetFinder Tip/Shaft）" },
+        "mains": { "type": "integer", "description": "主弦数，如 16" },
+        "crosses": { "type": "integer", "description": "横弦数，如 19" },
+        "mainSkip": { "type": "string", "description": "跳孔位，如 8T,7H,9H（RacquetFinder Main Skip）" },
+        "stiffness": { "type": "number", "description": "拍框硬度 RA，45-80" },
+        "composition": { "type": "string", "description": "材质，如 Graphene 360+/Graphite" },
+        "powerLevel": { "type": "string", "enum": ["Low", "Low-Medium", "Medium", "Medium-High", "High"], "description": "厂商/RacquetFinder 标注的力量等级" },
+        "stringTension": { "type": "string", "description": "推荐穿线磅数区间，如 52-62（lbs）" },
+        "gripSizes": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "length": { "type": "number", "description": "拍长 in，标准 27，范围 27-29" }
+      }
+    },
+    "playStyle": {
+      "type": "array",
+      "description": "适合打法及其匹配度",
+      "items": {
+        "type": "object",
+        "required": ["tag", "fit"],
+        "properties": {
+          "tag": {
+            "type": "string",
+            "enum": ["topspin", "flat", "aggressiveBaseline", "defensive", "serveAndVolley", "allCourt"]
+          },
+          "fit": { "type": "integer", "minimum": 0, "maximum": 5 }
+        }
+      }
+    },
+    "skillLevel": {
+      "type": "object",
+      "required": ["levels", "requirement"],
+      "properties": {
+        "levels": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["beginner", "intermediate", "advanced", "pro"]
+          },
+          "description": "适合的球员水平（可多个）"
+        },
+        "requirement": {
+          "type": "object",
+          "properties": {
+            "power": { "type": "integer", "minimum": 0, "maximum": 5, "description": "球拍自身提供的力量" },
+            "controlSkill": { "type": "integer", "minimum": 0, "maximum": 5, "description": "对使用者控制能力的要求" },
+            "physical": { "type": "integer", "minimum": 0, "maximum": 5, "description": "对体能/力量的要求" }
+          }
+        }
+      }
+    },
+    "experience": {
+      "type": "object",
+      "description": "使用体验，各项 0-5，用于横向对比",
+      "properties": {
+        "comfort": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "maneuverability": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "forgiveness": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "power": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "control": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "spinPotential": { "type": "integer", "minimum": 0, "maximum": 5 }
+      }
+    },
+    "notes": {
+      "type": "string",
+      "description": "补充说明，如适配场地、知名使用球员、改装建议等"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "基本参数是否已对照 RacquetFinder 实测值校验。false=近似值待核。"
+    }
+  }
+}

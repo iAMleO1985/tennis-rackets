@@ -1,0 +1,3094 @@
+[
+  {
+    "id": "babolat-pure-aero-2023",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Aero",
+      "year": 2023,
+      "series": "Pure Aero",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.babolat.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 318,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 66,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-59",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 5,
+      "control": 3,
+      "spinPotential": 5
+    },
+    "notes": "上旋利器，纳达尔代言系列。底线暴力上旋型选手首选。",
+    "verified": true
+  },
+  {
+    "id": "wilson-pro-staff-97-v14-2023",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Pro Staff 97 v14",
+      "year": 2023,
+      "series": "Pro Staff",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.wilson.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 97,
+      "weightStrungOz": 11.7,
+      "weightStrungG": 332,
+      "balancePts": -7,
+      "swingWeight": 325,
+      "beamWidth": "21.5",
+      "tipShaft": "21.5/21.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 66,
+      "composition": "Aramid/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "serveAndVolley",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 2,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "费德勒同款系列。低容错、高控制，适合技术成熟、追求手感的进攻型选手。",
+    "verified": true
+  },
+  {
+    "id": "head-radical-mp-2023",
+    "meta": {
+      "brand": "Head",
+      "model": "Radical MP",
+      "year": 2023,
+      "series": "Radical",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 323,
+      "beamWidth": "23.0",
+      "tipShaft": "20.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T, 8H",
+      "stiffness": 65,
+      "composition": "Graphene 360+/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "全场均衡型，进阶到高阶过渡的经典选择，各项无明显短板。",
+    "verified": true
+  },
+  {
+    "id": "wilson-clash-100-v2-2022",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Clash 100 v2",
+      "year": 2022,
+      "series": "Clash",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.wilson.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.0,
+      "weightStrungG": 312,
+      "balancePts": -7,
+      "swingWeight": 313,
+      "beamWidth": "24.5",
+      "tipShaft": "24.5/24.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 57,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "defensive",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 2,
+        "physical": 2
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 4,
+      "forgiveness": 5,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "极柔软、低硬度，舒适度顶级，适合手肘/手腕敏感者及进阶过渡选手。",
+    "verified": true
+  },
+  {
+    "id": "babolat-pure-drive-2025",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Drive",
+      "year": 2025,
+      "series": "Pure Drive",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.babolat.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 317,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 69,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "46-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 5,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 5,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "全球最畅销拍之一，力量型万金油，硬框爆发力强但偏震手。",
+    "verified": true
+  },
+  {
+    "id": "yonex-ezone-100-2025",
+    "meta": {
+      "brand": "Yonex",
+      "model": "EZONE 100",
+      "year": 2025,
+      "series": "EZONE",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.yonex.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 315,
+      "beamWidth": "26.5",
+      "tipShaft": "24.5/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,8H",
+      "stiffness": 68,
+      "composition": "Minolon/2NAMD-Speed/HM Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "大坂直美 / 阿尔卡拉斯使用系列，手感舒适、力量与控制兼顾。",
+    "verified": true
+  },
+  {
+    "id": "head-speed-mp-2024",
+    "meta": {
+      "brand": "Head",
+      "model": "Speed MP",
+      "year": 2024,
+      "series": "Speed",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.1,
+      "weightStrungG": 315,
+      "balancePts": -4,
+      "swingWeight": 330,
+      "beamWidth": "23.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 60,
+      "composition": "Auxetic 2/Graphene 360+/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "德约科维奇代言系列，全场均衡、操控灵活，适合技术型全能打法。",
+    "verified": true
+  },
+  {
+    "id": "wilson-blade-98-16x19-v9-2024",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Blade 98 16x19 v9",
+      "year": 2024,
+      "series": "Blade",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.wilson.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -4,
+      "swingWeight": 324,
+      "beamWidth": "21.0",
+      "tipShaft": "21.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 62,
+      "composition": "Basalt/Braided Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "控制型经典，柔韧手感深受进阶/高阶底线选手喜爱。",
+    "verified": true
+  },
+  {
+    "id": "head-prestige-mp-2023",
+    "meta": {
+      "brand": "Head",
+      "model": "Prestige MP",
+      "year": 2023,
+      "series": "Prestige",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 99,
+      "weightStrungOz": 11.5,
+      "weightStrungG": 326,
+      "balancePts": -3,
+      "swingWeight": 327,
+      "beamWidth": "21.5",
+      "tipShaft": "21.5/21.5",
+      "mains": 18,
+      "crosses": 19,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 62,
+      "composition": "Auxetic 2/Graphene Inside/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "serveAndVolley",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 2,
+      "forgiveness": 2,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "18x20 密弦、控制至上，纯粹的高手用拍，对挥拍速度要求高。",
+    "verified": true
+  },
+  {
+    "id": "babolat-pure-aero-rafa-team-2023",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Aero Team",
+      "year": 2023,
+      "series": "Pure Aero",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.babolat.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 10.6,
+      "weightStrungG": 300,
+      "balancePts": -5,
+      "swingWeight": 302,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 67,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-59",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 2,
+        "physical": 2
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 5,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 5
+    },
+    "notes": "Pure Aero 的轻量版，挥重低、易上手，进阶上旋型的入门之选。",
+    "verified": true
+  },
+  {
+    "id": "yonex-vcore-95-2023",
+    "meta": {
+      "brand": "Yonex",
+      "model": "VCORE 95",
+      "year": 2023,
+      "series": "VCORE",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.yonex.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 95,
+      "weightStrungOz": 11.5,
+      "weightStrungG": 326,
+      "balancePts": -7,
+      "swingWeight": 321,
+      "beamWidth": "22.0",
+      "tipShaft": "22.0/21.0",
+      "mains": 16,
+      "crosses": 20,
+      "mainSkip": "7T,9T,8H",
+      "stiffness": 61,
+      "composition": "2G-Namd FlexForce/H.M. Graphite",
+      "powerLevel": "Low",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "VCORE 95 接替老 VCORE Pro，窄拍面+薄框的控制型现役款，适合高阶底线选手。",
+    "verified": true
+  },
+  {
+    "id": "head-titanium-ti-s6-1996",
+    "meta": {
+      "brand": "Head",
+      "model": "Titanium TI.S6",
+      "year": 1996,
+      "series": "Ti",
+      "priceRange": "budget",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 115,
+      "weightStrungOz": 8.6,
+      "weightStrungG": 244,
+      "balancePts": 7,
+      "swingWeight": 309,
+      "beamWidth": "28.0",
+      "tipShaft": "27.0/27.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,7H,9H",
+      "stiffness": 71,
+      "composition": "Graphite / Titanium Composite",
+      "powerLevel": "High",
+      "stringTension": "57-66",
+      "length": 27.75,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "defensive",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner"
+      ],
+      "requirement": {
+        "power": 5,
+        "controlSkill": 1,
+        "physical": 1
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 5,
+      "forgiveness": 5,
+      "power": 5,
+      "control": 2,
+      "spinPotential": 2
+    },
+    "notes": "超轻头重大拍面，常青入门款。省力、容错极高，适合纯初学和休闲娱乐。",
+    "verified": true
+  },
+  {
+    "id": "head-extreme-mp-2024",
+    "meta": {
+      "brand": "Head",
+      "model": "Extreme MP",
+      "year": 2024,
+      "series": "Extreme",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 323,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,7H,9H",
+      "stiffness": 66,
+      "composition": "Graphene 360+/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "52-62",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 5
+    },
+    "notes": "Extreme 系列主打上旋，开放弦床 + 26mm 框，旋转潜力强而保留控制。基本参数已对照 RacquetFinder 实测。",
+    "verified": true
+  },
+  {
+    "id": "babolat-pure-strike-98-16x19-2024",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Strike 98 16x19",
+      "year": 2024,
+      "series": "Pure Strike",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -4,
+      "swingWeight": 330,
+      "beamWidth": "23.0",
+      "tipShaft": "21.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 64,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "蒂姆代言系列，控制型进攻框，干脆利落的击球反馈，适合技术型底线进攻。",
+    "verified": true
+  },
+  {
+    "id": "babolat-pure-aero-98-2023",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Aero 98",
+      "year": 2023,
+      "series": "Pure Aero",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -6,
+      "swingWeight": 321,
+      "beamWidth": "23.0",
+      "tipShaft": "21.0/22.0",
+      "mains": 16,
+      "crosses": 20,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 66,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-59",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 3,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 5
+    },
+    "notes": "Pure Aero 的 98 拍面版，更紧凑、更可控，重旋转进攻型高阶之选。",
+    "verified": true
+  },
+  {
+    "id": "wilson-blade-100-v9-2024",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Blade 100 v9",
+      "year": 2024,
+      "series": "Blade",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 322,
+      "beamWidth": "22.0",
+      "tipShaft": "22.0/22.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 60,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "Blade 家族的 100 拍面版，比 98 更易上手、容错更高，全场均衡。",
+    "verified": true
+  },
+  {
+    "id": "wilson-ultra-100-v5-2025",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Ultra 100 v5",
+      "year": 2025,
+      "series": "Ultra",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 322,
+      "beamWidth": "26.5",
+      "tipShaft": "24.0/24.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T, 8H",
+      "stiffness": 67,
+      "composition": "Carbon Fiber Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "力量与舒适兼顾的现代框，甜区大、出球轻松，进阶全能型友好。",
+    "verified": true
+  },
+  {
+    "id": "wilson-clash-100-pro-v2-2022",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Clash 100 Pro v2",
+      "year": 2022,
+      "series": "Clash",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.5,
+      "weightStrungG": 326,
+      "balancePts": -9,
+      "swingWeight": 325,
+      "beamWidth": "24.5",
+      "tipShaft": "24.5/24.5",
+      "mains": 16,
+      "crosses": 20,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 59,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "defensive",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "Clash Pro 版，更重更稳，保留招牌柔韧手感的同时提升控制，适合高阶。",
+    "verified": true
+  },
+  {
+    "id": "wilson-rf-01-2024",
+    "meta": {
+      "brand": "Wilson",
+      "model": "RF 01",
+      "year": 2024,
+      "series": "RF",
+      "priceRange": "premium",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -5,
+      "swingWeight": 319,
+      "beamWidth": "23.0",
+      "tipShaft": "23.2/22.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 64,
+      "composition": "Carbon +Carbon Braid",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "serveAndVolley",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 2,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "费德勒亲自参与设计的全新控制框，接替 Pro Staff RF97，纯粹手感与精准。",
+    "verified": true
+  },
+  {
+    "id": "wilson-shift-99-2023",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Shift 99",
+      "year": 2023,
+      "series": "Shift",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 99,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -6,
+      "swingWeight": 317,
+      "beamWidth": "23.5",
+      "tipShaft": "23.5/23.5",
+      "mains": 16,
+      "crosses": 20,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 67,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-58",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "Wilson 全新系列，柔韧灵活、过渡顺滑，主打灵动操控的现代打法。",
+    "verified": true
+  },
+  {
+    "id": "wilson-burn-100s-v5-2023",
+    "meta": {
+      "brand": "Wilson",
+      "model": "Burn 100S v5",
+      "year": 2023,
+      "series": "Burn",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.3,
+      "weightStrungG": 320,
+      "balancePts": -1,
+      "swingWeight": 325,
+      "beamWidth": "25.0",
+      "tipShaft": "23.5/23.5",
+      "mains": 18,
+      "crosses": 16,
+      "mainSkip": "9T,8H,10H",
+      "stiffness": 73,
+      "composition": "Carbon Fiber Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 5
+    },
+    "notes": "18x16 稀疏弦床，专为暴力上旋设计，出球转速极高。",
+    "verified": true
+  },
+  {
+    "id": "head-gravity-mp-2025",
+    "meta": {
+      "brand": "Head",
+      "model": "Gravity MP",
+      "year": 2025,
+      "series": "Gravity",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.0,
+      "weightStrungG": 312,
+      "balancePts": -3,
+      "swingWeight": 323,
+      "beamWidth": "22.0",
+      "tipShaft": "22.0/22.0",
+      "mains": 16,
+      "crosses": 20,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 57,
+      "composition": "Graphene Inside/Auxetic 2/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "defensive",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "兹维列夫代言系列，舒适柔软、控制出色，全场型与防守反击俱佳。",
+    "verified": true
+  },
+  {
+    "id": "head-boom-mp-2024",
+    "meta": {
+      "brand": "Head",
+      "model": "Boom MP",
+      "year": 2024,
+      "series": "Boom",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.0,
+      "weightStrungG": 312,
+      "balancePts": -6,
+      "swingWeight": 317,
+      "beamWidth": "24.0",
+      "tipShaft": "23.0/22.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 62,
+      "composition": "Auxetic 2/Graphene Inside/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "Head 主打舒适+力量的现代框，弹性好、易发力，进阶全能友好。",
+    "verified": true
+  },
+  {
+    "id": "head-speed-pro-2024",
+    "meta": {
+      "brand": "Head",
+      "model": "Speed Pro",
+      "year": 2024,
+      "series": "Speed",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.6,
+      "weightStrungG": 329,
+      "balancePts": -6,
+      "swingWeight": 333,
+      "beamWidth": "23.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 18,
+      "crosses": 20,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 60,
+      "composition": "Auxetic 2/Graphene Inside/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "德约科维奇实际使用的 Pro 版，重而稳、控制极致，对技术要求高。",
+    "verified": true
+  },
+  {
+    "id": "head-radical-pro-2023",
+    "meta": {
+      "brand": "Head",
+      "model": "Radical Pro",
+      "year": 2023,
+      "series": "Radical",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.7,
+      "weightStrungG": 332,
+      "balancePts": -6,
+      "swingWeight": 325,
+      "beamWidth": "21.5",
+      "tipShaft": "20.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T, 8H",
+      "stiffness": 64,
+      "composition": "Graphene 360+/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "Radical 的 Pro 重头版，稳定有力，适合追求控制的高阶底线选手。",
+    "verified": true
+  },
+  {
+    "id": "head-instinct-mp-2025",
+    "meta": {
+      "brand": "Head",
+      "model": "Instinct MP",
+      "year": 2025,
+      "series": "Instinct",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 317,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 64,
+      "composition": "Auextic/Graphene Inside/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "requirement": {
+        "power": 5,
+        "controlSkill": 2,
+        "physical": 2
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 5,
+      "power": 5,
+      "control": 3,
+      "spinPotential": 3
+    },
+    "notes": "Head 力量型代表，甜区大、出球轻松，适合进阶过渡与力量不足者。",
+    "verified": true
+  },
+  {
+    "id": "head-extreme-pro-2024",
+    "meta": {
+      "brand": "Head",
+      "model": "Extreme Pro",
+      "year": 2024,
+      "series": "Extreme",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -6,
+      "swingWeight": 322,
+      "beamWidth": "23.0",
+      "tipShaft": "22.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 64,
+      "composition": "Graphene 360+/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 3,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 5
+    },
+    "notes": "Extreme 系列旗舰，开放弦床+重头，重上旋进攻的高阶利器。",
+    "verified": true
+  },
+  {
+    "id": "yonex-ezone-98-2025",
+    "meta": {
+      "brand": "Yonex",
+      "model": "EZONE 98",
+      "year": 2025,
+      "series": "EZONE",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -6,
+      "swingWeight": 320,
+      "beamWidth": "24.5",
+      "tipShaft": "23.8/19.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 63,
+      "composition": "Minolon/2NAMD-Speed/HM Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "巡回赛热门控制框，手感扎实、控制与旋转兼备，高阶全能之选。",
+    "verified": true
+  },
+  {
+    "id": "yonex-percept-97-2023",
+    "meta": {
+      "brand": "Yonex",
+      "model": "Percept 97",
+      "year": 2023,
+      "series": "Percept",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 97,
+      "weightStrungOz": 11.5,
+      "weightStrungG": 326,
+      "balancePts": -7,
+      "swingWeight": 315,
+      "beamWidth": "21.0",
+      "tipShaft": "21.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 60,
+      "composition": "NAMD-2G/H.M.Graphite",
+      "powerLevel": "Low",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 3,
+      "forgiveness": 2,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "接替 VCORE Pro，柔韧细腻、控制至上，瓦林卡风格的纯控制框。",
+    "verified": true
+  },
+  {
+    "id": "yonex-percept-100d-2023",
+    "meta": {
+      "brand": "Yonex",
+      "model": "Percept 100D",
+      "year": 2023,
+      "series": "Percept",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.3,
+      "weightStrungG": 320,
+      "balancePts": -6,
+      "swingWeight": 318,
+      "beamWidth": "23.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 18,
+      "crosses": 19,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 66,
+      "composition": "NAMD-2G/H.M.Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "Percept 100 的厚框 D 版，更有力量，控制与力量平衡的全场框。",
+    "verified": true
+  },
+  {
+    "id": "babolat-boost-drive-2025",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Boost Drive",
+      "year": 2025,
+      "series": "Boost",
+      "priceRange": "budget",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 105,
+      "weightStrungOz": 9.7,
+      "weightStrungG": 275,
+      "balancePts": 3,
+      "swingWeight": 312,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 65,
+      "composition": "Graphite",
+      "powerLevel": "Medium",
+      "stringTension": "50-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 3
+      },
+      {
+        "tag": "defensive",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner"
+      ],
+      "requirement": {
+        "power": 5,
+        "controlSkill": 1,
+        "physical": 1
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 5,
+      "forgiveness": 5,
+      "power": 5,
+      "control": 2,
+      "spinPotential": 3
+    },
+    "notes": "轻量大拍面入门款，省力易挥，预算有限的初学者友好之选。",
+    "verified": true
+  },
+  {
+    "id": "tecnifibre-tfight-305s-2025",
+    "meta": {
+      "brand": "Tecnifibre",
+      "model": "TFight 305S",
+      "year": 2025,
+      "series": "TFight",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.3,
+      "weightStrungG": 320,
+      "balancePts": -6,
+      "swingWeight": 324,
+      "beamWidth": "22.5",
+      "tipShaft": "22.5/22.5",
+      "mains": 18,
+      "crosses": 19,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 63,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "50-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 4
+    },
+    "notes": "梅总（梅德韦杰夫）代言系列，扎实稳定、控制出色，高阶底线进攻框。",
+    "verified": true
+  },
+  {
+    "id": "tecnifibre-tf40-305-18x20-2024",
+    "meta": {
+      "brand": "Tecnifibre",
+      "model": "TF40 305 18x20",
+      "year": 2024,
+      "series": "TF40",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -3,
+      "swingWeight": 330,
+      "beamWidth": "22.0",
+      "tipShaft": "22.0/22.0",
+      "mains": 18,
+      "crosses": 20,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 64,
+      "composition": "Dynacore XTC/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "49-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "serveAndVolley",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 2,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "18x20 密弦控制旗舰，手感纯粹、落点精准，纯控制型高手用拍。",
+    "verified": true
+  },
+  {
+    "id": "tecnifibre-tfight-300-2025",
+    "meta": {
+      "brand": "Tecnifibre",
+      "model": "TFight 300",
+      "year": 2025,
+      "series": "TFight",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 318,
+      "beamWidth": "22.5",
+      "tipShaft": "22.5/22.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 65,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "49-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "TFight 标准 300g 版，控制与机动平衡，进阶到高阶的全场之选。",
+    "verified": true
+  },
+  {
+    "id": "tecnifibre-tfight-270-2025",
+    "meta": {
+      "brand": "Tecnifibre",
+      "model": "TFight 270",
+      "year": 2025,
+      "series": "TFight",
+      "priceRange": "mid",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 10.0,
+      "weightStrungG": 283,
+      "balancePts": -4,
+      "swingWeight": 300,
+      "beamWidth": "23.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 65,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "49-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 2
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 5,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "轻量易挥版，省力灵活，适合进阶过渡与力量偏弱的选手。",
+    "verified": true
+  },
+  {
+    "id": "prince-phantom-100x-305-2024",
+    "meta": {
+      "brand": "Prince",
+      "model": "Phantom 100X (305g)",
+      "year": 2024,
+      "series": "Phantom",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -6,
+      "swingWeight": 320,
+      "beamWidth": "20.5",
+      "tipShaft": "22.0/18.0",
+      "mains": 16,
+      "crosses": 18,
+      "mainSkip": "8T,8H",
+      "stiffness": 59,
+      "composition": "Textreme/Zylon/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "Phantom 系列招牌薄框控制，柔韧细腻、手感一流，控制型高阶最爱。",
+    "verified": true
+  },
+  {
+    "id": "prince-ripstick-98-2025",
+    "meta": {
+      "brand": "Prince",
+      "model": "Ripstick 98",
+      "year": 2025,
+      "series": "Ripstick",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -7,
+      "swingWeight": 328,
+      "beamWidth": "25.5",
+      "tipShaft": "27.0/22.0",
+      "mains": 16,
+      "crosses": 18,
+      "mainSkip": "8T,8H",
+      "stiffness": 67,
+      "composition": "Textreme/Zylon/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-58",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 5
+    },
+    "notes": "Ripstick 主打旋转，独特弦床带来强烈上旋，进攻上旋型之选。",
+    "verified": true
+  },
+  {
+    "id": "prince-textreme-tour-100p-2022",
+    "meta": {
+      "brand": "Prince",
+      "model": "ATS Textreme Tour 100P",
+      "year": 2022,
+      "series": "Tour",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.4,
+      "weightStrungG": 323,
+      "balancePts": -7,
+      "swingWeight": 322,
+      "beamWidth": "23.0",
+      "tipShaft": "22.0/20.0",
+      "mains": 18,
+      "crosses": 20,
+      "mainSkip": "8T,10T,8H,10H",
+      "stiffness": 61,
+      "composition": "Textreme/Twaron/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "45-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 3,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "Tour 100P 全场均衡框，舒适稳定、各项无短板，进阶全能友好。",
+    "verified": true
+  },
+  {
+    "id": "prince-textreme-tour-95-2022",
+    "meta": {
+      "brand": "Prince",
+      "model": "ATS Textreme Tour 95",
+      "year": 2022,
+      "series": "Tour",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 95,
+      "weightStrungOz": 11.9,
+      "weightStrungG": 337,
+      "balancePts": -8,
+      "swingWeight": 324,
+      "beamWidth": "22.0",
+      "tipShaft": "22.0/19.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 61,
+      "composition": "Textreme/Twaron/Graphite",
+      "powerLevel": "Low",
+      "stringTension": "45-55",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "serveAndVolley",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 2,
+      "forgiveness": 2,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "95 小拍面纯控制框，要求高、回报高，技术成熟者的精准武器。",
+    "verified": true
+  },
+  {
+    "id": "dunlop-cx-200-2024",
+    "meta": {
+      "brand": "Dunlop",
+      "model": "CX 200",
+      "year": 2024,
+      "series": "CX",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.3,
+      "weightStrungG": 320,
+      "balancePts": -7,
+      "swingWeight": 308,
+      "beamWidth": "21.5",
+      "tipShaft": "21.5/21.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 64,
+      "composition": "Sonic Core Infinergy/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-65",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "Dunlop 控制系列旗舰，扎实直接、落点精准，控制型进攻高阶用拍。",
+    "verified": true
+  },
+  {
+    "id": "dunlop-sx-300-2025",
+    "meta": {
+      "brand": "Dunlop",
+      "model": "SX 300",
+      "year": 2025,
+      "series": "SX",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 318,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 69,
+      "composition": "Sonic Core Infinergy/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-65",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "topspin",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "allCourt",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 3,
+      "spinPotential": 5
+    },
+    "notes": "SX 系列主打旋转，Sonic Core 减震+开放弦床，上旋进攻利器。",
+    "verified": true
+  },
+  {
+    "id": "dunlop-fx-500-2025",
+    "meta": {
+      "brand": "Dunlop",
+      "model": "FX 500",
+      "year": 2025,
+      "series": "FX",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "balancePts": -4,
+      "swingWeight": 320,
+      "beamWidth": "26.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 68,
+      "composition": "Sonic Core Infinergy/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-65",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 4,
+        "controlSkill": 3,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 5,
+      "control": 3,
+      "spinPotential": 4
+    },
+    "notes": "FX 系列主打力量，宽框大甜区、出球爆发，底线力量型友好。",
+    "verified": true
+  },
+  {
+    "id": "dunlop-cx-200-tour-16x19-2024",
+    "meta": {
+      "brand": "Dunlop",
+      "model": "CX 200 Tour 16x19",
+      "year": 2024,
+      "series": "CX",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com"
+      ]
+    },
+    "specs": {
+      "headSize": 95,
+      "weightStrungOz": 11.5,
+      "weightStrungG": 326,
+      "balancePts": -7,
+      "swingWeight": 314,
+      "beamWidth": "20.5",
+      "tipShaft": "20.5/20.5",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T,8H",
+      "stiffness": 66,
+      "composition": "Sonic Core Infinergy/Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-65",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 5,
+        "physical": 5
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 2,
+      "forgiveness": 2,
+      "power": 2,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "CX 200 Tour 重头窄拍面控制版，巡回级稳定，纯控制高手向。",
+    "verified": true
+  }
+]
