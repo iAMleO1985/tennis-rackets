@@ -112,6 +112,10 @@ def main():
         # 保留原 gripSizes
         if "gripSizes" in r["specs"]:
             new.setdefault("gripSizes", r["specs"]["gripSizes"])
+        # 保留 RF 不提供、需沿用旧值的字段（如空拍重量）
+        for k in PRESERVE:
+            if k not in new and k in r["specs"]:
+                new[k] = r["specs"][k]
         r["specs"] = new
         r["verified"] = True
         update_meta_from_name(r["meta"], rfname)

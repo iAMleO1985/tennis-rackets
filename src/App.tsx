@@ -12,10 +12,11 @@ import RecommendView from './RecommendView'
 const COMPARE_COLORS = ['#2563eb', '#dc2626', '#16a34a', '#9333ea']
 const MAX_COMPARE = 4
 
-type RangeKey = 'headSize' | 'weightStrungG' | 'stiffness'
+type RangeKey = 'headSize' | 'weightStrungG' | 'weightUnstrungG' | 'stiffness'
 const RANGE_DEFS: { key: RangeKey; label: string; min: number; max: number; unit: string }[] = [
   { key: 'headSize', label: '拍面', min: 95, max: 120, unit: 'sq in' },
   { key: 'weightStrungG', label: '穿线重量', min: 250, max: 340, unit: 'g' },
+  { key: 'weightUnstrungG', label: '空拍重量', min: 220, max: 340, unit: 'g' },
   { key: 'stiffness', label: '硬度 RA', min: 50, max: 75, unit: '' },
 ]
 
@@ -27,6 +28,7 @@ export default function App() {
   const [ranges, setRanges] = useState<Record<RangeKey, [number, number]>>({
     headSize: [95, 120],
     weightStrungG: [250, 340],
+    weightUnstrungG: [220, 340],
     stiffness: [50, 75],
   })
   const [compare, setCompare] = useState<string[]>([])
@@ -244,7 +246,8 @@ function RacketCard({
 
       <div className="grid grid-cols-3 gap-y-1.5 text-xs text-slate-600">
         <Spec label="拍面" value={`${r.specs.headSize}`} />
-        <Spec label="重量" value={`${r.specs.weightStrungG}g`} />
+        <Spec label="穿线" value={`${r.specs.weightStrungG}g`} />
+        <Spec label="空拍" value={r.specs.weightUnstrungG ? `${r.specs.weightUnstrungG}g` : '-'} />
         <Spec label="硬度" value={`${r.specs.stiffness ?? '-'}`} />
         <Spec label="挥重" value={`${r.specs.swingWeight ?? '-'}`} />
         <Spec label="弦床" value={`${r.specs.mains}×${r.specs.crosses}`} />
@@ -302,6 +305,7 @@ function CompareBar({ rackets: rs, onClear, onRemove }: { rackets: Racket[]; onC
 const COMPARE_ROWS: { label: string; get: (r: Racket) => string | number | undefined; numeric?: boolean }[] = [
   { label: '拍面 (sq in)', get: (r) => r.specs.headSize, numeric: true },
   { label: '穿线重量 (g)', get: (r) => r.specs.weightStrungG, numeric: true },
+  { label: '空拍重量 (g)', get: (r) => r.specs.weightUnstrungG, numeric: true },
   { label: '平衡 (pts)', get: (r) => r.specs.balancePts, numeric: true },
   { label: '挥重', get: (r) => r.specs.swingWeight, numeric: true },
   { label: '硬度 RA', get: (r) => r.specs.stiffness, numeric: true },
@@ -377,6 +381,7 @@ function DetailModal({ racket: r, onClose }: { racket: Racket; onClose: () => vo
         <div className="grid grid-cols-2 gap-x-6 gap-y-1.5 text-sm flex-1 min-w-[260px]">
           <Spec label="拍面" value={`${r.specs.headSize} sq in`} />
           <Spec label="穿线重量" value={`${r.specs.weightStrungG} g`} />
+          <Spec label="空拍重量" value={r.specs.weightUnstrungG ? `${r.specs.weightUnstrungG} g` : '-'} />
           <Spec label="平衡" value={r.specs.balancePts != null ? `${r.specs.balancePts} pts` : '-'} />
           <Spec label="挥重" value={`${r.specs.swingWeight ?? '-'}`} />
           <Spec label="硬度 RA" value={`${r.specs.stiffness ?? '-'}`} />
