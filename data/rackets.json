@@ -3290,5 +3290,83 @@
     },
     "notes": "Pure Strike 100 16x19，比 98 拍面更大、力量与容错更高，开放弦床带来更多旋转与火力，同时保留 Pure Strike 线一贯的清晰击球感。适合追求平击/底线进攻、又想要一点甜区宽容度的进阶到高阶球员。",
     "verified": true
+  },
+  {
+    "id": "yonex-percept-100-2025",
+    "meta": {
+      "brand": "Yonex",
+      "model": "PERCEPT 100",
+      "year": 2025,
+      "series": "PERCEPT",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.yonex.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.1,
+      "weightStrungG": 315,
+      "weightUnstrungG": 297,
+      "balancePts": -4,
+      "swingWeight": 318,
+      "beamWidth": "23.0",
+      "tipShaft": "23.0/23.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 66,
+      "composition": "2G-Namd/HM Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "45-60",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 5,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 4
+    },
+    "notes": "PERCEPT 100 16x19，PERCEPT 线主打舒适与控制。2G-Namd 碳素带来扎实又柔和的手感，100 拍面 + 开放弦床比 97 更易上手、力量与旋转更足。适合追求手感与全场均衡的进阶到高阶球员。",
+    "verified": true
   }
 ]
