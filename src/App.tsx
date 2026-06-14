@@ -12,11 +12,12 @@ import RecommendView from './RecommendView'
 const COMPARE_COLORS = ['#2563eb', '#dc2626', '#16a34a', '#9333ea']
 const MAX_COMPARE = 4
 
-type RangeKey = 'headSize' | 'weightStrungG' | 'weightUnstrungG' | 'stiffness'
+type RangeKey = 'headSize' | 'weightStrungG' | 'weightUnstrungG' | 'swingWeight' | 'stiffness'
 const RANGE_DEFS: { key: RangeKey; label: string; min: number; max: number; unit: string }[] = [
   { key: 'headSize', label: '拍面', min: 95, max: 120, unit: 'sq in' },
   { key: 'weightStrungG', label: '穿线重量', min: 250, max: 340, unit: 'g' },
   { key: 'weightUnstrungG', label: '空拍重量', min: 220, max: 340, unit: 'g' },
+  { key: 'swingWeight', label: '挥重', min: 280, max: 360, unit: '' },
   { key: 'stiffness', label: '硬度 RA', min: 50, max: 75, unit: '' },
 ]
 
@@ -29,6 +30,7 @@ export default function App() {
     headSize: [95, 120],
     weightStrungG: [250, 340],
     weightUnstrungG: [220, 340],
+    swingWeight: [280, 360],
     stiffness: [50, 75],
   })
   const [compare, setCompare] = useState<string[]>([])
