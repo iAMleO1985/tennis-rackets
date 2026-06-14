@@ -3133,5 +3133,84 @@
     },
     "notes": "CX 200 Tour 重头窄拍面控制版，巡回级稳定，纯控制高手向。",
     "verified": true
+  },
+  {
+    "id": "head-youtek-ig-radical-pro-2012",
+    "meta": {
+      "brand": "Head",
+      "model": "YOUTEK IG Radical Pro",
+      "year": 2012,
+      "series": "Radical",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.tenniswarehouse.com/",
+        "https://www.head.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 98,
+      "weightStrungOz": 11.9,
+      "weightStrungG": 337,
+      "weightUnstrungG": 315,
+      "balancePts": -4,
+      "swingWeight": 336,
+      "beamWidth": "20/23/21",
+      "tipShaft": "20.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "8T, 8H",
+      "stiffness": 63,
+      "composition": "d3o / Innegra / Graphite",
+      "powerLevel": "Low",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "allCourt",
+        "fit": 5
+      },
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 4
+      },
+      {
+        "tag": "flat",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "advanced",
+        "pro"
+      ],
+      "requirement": {
+        "power": 2,
+        "controlSkill": 4,
+        "physical": 4
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 3,
+      "forgiveness": 3,
+      "power": 3,
+      "control": 5,
+      "spinPotential": 3
+    },
+    "notes": "YOUTEK IG 时期经典控制型框，安迪·穆雷 (Andy Murray) 同款。337g 偏重、低力量高控制，适合挥速快、技术成型的进阶/高阶球员。Innegra + d3o 减震带来同硬度下更柔和的手感。",
+    "verified": true
   }
 ]
