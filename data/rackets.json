@@ -3212,5 +3212,83 @@
     },
     "notes": "YOUTEK IG 时期经典控制型框，安迪·穆雷 (Andy Murray) 同款。337g 偏重、低力量高控制，适合挥速快、技术成型的进阶/高阶球员。Innegra + d3o 减震带来同硬度下更柔和的手感。",
     "verified": true
+  },
+  {
+    "id": "babolat-pure-strike-100-16x19-2025",
+    "meta": {
+      "brand": "Babolat",
+      "model": "Pure Strike 100 16x19",
+      "year": 2025,
+      "series": "Pure Strike",
+      "priceRange": "high",
+      "imageUrl": "",
+      "sources": [
+        "https://www.racquetfinder.com",
+        "https://www.babolat.com/"
+      ]
+    },
+    "specs": {
+      "headSize": 100,
+      "weightStrungOz": 11.2,
+      "weightStrungG": 318,
+      "weightUnstrungG": 300,
+      "balancePts": -4,
+      "swingWeight": 324,
+      "beamWidth": "23.0",
+      "tipShaft": "21.0/21.0",
+      "mains": 16,
+      "crosses": 19,
+      "mainSkip": "7T,9T,7H,9H",
+      "stiffness": 63,
+      "composition": "Graphite",
+      "powerLevel": "Low-Medium",
+      "stringTension": "48-57",
+      "length": 27.0,
+      "gripSizes": [
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ]
+    },
+    "playStyle": [
+      {
+        "tag": "aggressiveBaseline",
+        "fit": 5
+      },
+      {
+        "tag": "flat",
+        "fit": 5
+      },
+      {
+        "tag": "allCourt",
+        "fit": 4
+      },
+      {
+        "tag": "topspin",
+        "fit": 3
+      }
+    ],
+    "skillLevel": {
+      "levels": [
+        "intermediate",
+        "advanced"
+      ],
+      "requirement": {
+        "power": 3,
+        "controlSkill": 4,
+        "physical": 3
+      }
+    },
+    "experience": {
+      "comfort": 4,
+      "maneuverability": 4,
+      "forgiveness": 4,
+      "power": 4,
+      "control": 4,
+      "spinPotential": 3
+    },
+    "notes": "Pure Strike 100 16x19，比 98 拍面更大、力量与容错更高，开放弦床带来更多旋转与火力，同时保留 Pure Strike 线一贯的清晰击球感。适合追求平击/底线进攻、又想要一点甜区宽容度的进阶到高阶球员。",
+    "verified": true
   }
 ]
